@@ -17,7 +17,7 @@ offers.enabled=false
 offers.sponsorpay.appid=0
 offers.supersonic.enabled=false
 
-avatareditor.promohabbos=https://hadrushotel.github.io/swf/gamedata/xml/promo_habbos.xml?2674344
+avatareditor.promohabbos=https://hadrushotel.github.io/gamedata/xml/promo_habbos.xml?2674344
 
 game.center.default_game=basejump
 game.center.enabled=false
@@ -30,7 +30,7 @@ sms.identity.verification.enabled=false
 multi.item.trading.enabled=true
 
 flash.dynamic.download.name.template=%typeid%.swf
-flash.dynamic.download.url=https://hadrushotel.github.io/swf/dcr/hof_furni/
-flash.dynamic.avatar.download.configuration=https://hadrushotel.github.io/swf/gamedata/figuremap.xml
+flash.dynamic.download.url=https://hadrushotel.github.io/dcr/hof_furni/
+flash.dynamic.avatar.download.configuration=https://hadrushotel.github.io/gamedata/figuremap.xml
 
-habbopages.url=https://hadrushotel.github.io/swf/gamedata/habbopages/
+habbopages.url=https://hadrushotel.github.io/gamedata/habbopages/
