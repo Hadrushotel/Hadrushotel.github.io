@@ -1,0 +1,18 @@
+Información del comando rango:
+<span class="padding-top"><br></span><h1>Rangos:</h1><span class="padding-top"><br></span>
+<span class="padding-top"></span><p>Bienvenido, si estás viendo esto es porque formas parte del equipo administrativo. Esta herramienta te permitirá modificar los rangos de los distintos departamentos.<br><br>Este sería un ejemplo de cómo usar el comando:</p><span class="padding-bottom"><br></span>
+<p class="bullet-item">·&nbsp;<b>:rank &lt;usuario&gt; &lt;tipo&gt; &lt;número&gt;</b></p>
+<p class="bullet-item">·&nbsp;<b>:rank Custom publi 3</b></p>
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Tipos</h2><span class="padding-bottom"></span>
+<span class="padding-top"><br></span><p class="bullet-item">·&nbsp;<b>guide / guia</b> - Modifica el rango de guía.</p>
+<p class="bullet-item">·&nbsp;<b>publi / publicista</b> - Modifica el rango de publicista.</p>
+<p class="bullet-item">·&nbsp;<b>inter / croupier</b> - Modifica el rango de intermediario.</p>
+<p class="bullet-item">·&nbsp;<b>builder / constructor</b> - Modifica el rango de BAW.</p>
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Números</h2><span class="padding-bottom"></span>
+<span class="padding-top"><br></span><p class="bullet-item">·&nbsp;<b>0</b> - Quita el rango.</p>
+<p class="bullet-item">·&nbsp;<b>1</b> - Da rango 1 en el departamento seleccionado (builder y croupier sólo tienen este).</p>
+<p class="bullet-item">·&nbsp;<b>2</b> - Da rango 2 en el departamento seleccionado (guías = Búho - publicistas = Publicistas).</p>
+<p class="bullet-item">·&nbsp;<b>3</b> - Da rango 3 en el departamento seleccionado (guías = Encargado - publicistas = Encargado).</p>
+<p class="bullet-item">·&nbsp;<b>4</b> - Da rango oculto en el departamento seleccionado.</p>

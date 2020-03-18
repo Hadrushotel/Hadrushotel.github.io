@@ -1,0 +1,9 @@
+Wiki de iHabbo
+<span class="padding-top"><br></span><h3>Bienvenid@ a la Wiki de iHabbo:</h3><span class="padding-bottom"><br></span><span class="padding-top"><br></span>
+<p>En esta sección podrás encontrar toda la información sobre iHabbo, cómo utilizar todas las herramientas que hemos puesto a disposición de l@s usuari@s para que nadie tenga dudas sobre su uso.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Información sobre premios / catálogo:</h3><span class="padding-bottom"><br></span><span class="padding-top"><br></span>
+<p class="bullet-item">·<a href="event:habbopages/crafting.txt">Máquina de Premios</a></p>
+<p class="bullet-item">·<a href="event:habbopages/vip">Suscripción VIP</a></p>
+<p class="bullet-item">·<a href="event:habbopages/currencies">Monedas de iHabbo</a></p><br>
+<span class="padding-top"><br></span><h3>Información sobre juegos:</h3><span class="padding-bottom"><br></span><span class="padding-top"><br></span>
+<p class="bullet-item">·<a href="event:habbopages/chess">¿Cómo jugar al Ajedrez?</a></p>

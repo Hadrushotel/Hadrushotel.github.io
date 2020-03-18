@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>Index</h1>
+    <p>HADRUSHOTEL</p>
+
+    <table style="width:50%; text-align: left">
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gamedata\external_variables.txt?33234">External Variables</a></th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gamedata\external_flash_texts.txt?2f5332249225243343">External Flash Texts Spanish</a></th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gamedata\productdata.txt">Productdata Spanish</a></th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gamedata\Furnidata.xml">Frunidata XML</a></th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gamedata\Figuremap.xml">Figuremap XML</a></th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gamedata\FigureData.xml">FigureData XML</a></th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gordon\PRODUCTION">SWF FOLDER</th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gamedata\override\external_flash_override_texts.txt?43342">External Flash Override Spanish</a></th>
+    <tr>
+    <td>
+    </tr>
+    </td>
+<th><a href="https://hadrushotel.github.io\gordon\Hadrus.swf?2f3dsf23">Hadrus.swf</a></th>
+    </table>
+ 
+<script type="text/javascript">
+this.blankwin = function(){
+        var dlists = new Array();  
+ dlists[0] = 'forum.ragezone.com'; 
+
+	var hostname = window.location.hostname;
+	hostname = hostname.replace("www.","").toLowerCase();
+	var a = document.getElementsByTagName("a");	
+	this.check = function(obj){
+		var href = obj.href.toLowerCase();
+                var dbopcount = 0;
+                if (href.indexOf("http://")!=-1)
+                {
+                   for (jdi = 0; jdi <= dlists.length; jdi++)
+                   {
+                      if (href.indexOf(dlists[jdi]) == -1)
+                      {
+                         //alert("NO MATCH " + dlists[jdi] + " " + href);
+                         dbopcount = dbopcount;  //Do nothing
+                      }
+                      else
+                      {
+                         //alert("match " + dlists[jdi] + " " + href);
+                         dbopcount++;
+                      }
+                   } 
+                   if (dbopcount > 0)
+                     return true; //If this link URL was an internal URL
+                   else  //there were no matches to any internal domain, so leave it external
+                     return false;
+                }
+                else
+                {
+                  return false;
+                }
+		//return (href.indexOf("http://")!=-1 && href.indexOf(hostname)==-1) ? false : true;				
+	};
+	this.set = function(obj){
+		obj.target = "_self";
+	};	
+	for (var i=0;i<a.length;i++){
+		if(check(a[i])) set(a[i]);
+	};		
+};
+
+// script initiates on page load. 
+
+this.addEvent = function(obj,type,fn){
+	if(obj.attachEvent){
+		obj['e'+type+fn] = fn;
+		obj[type+fn] = function(){obj['e'+type+fn](window.event );}
+		obj.attachEvent('on'+type, obj[type+fn]);
+	} else {
+		obj.addEventListener(type,fn,false);
+	};
+};
+addEvent(window,"load",blankwin);
+</script>
+</body>
+
+</html>

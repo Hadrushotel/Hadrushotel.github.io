@@ -1,0 +1,7 @@
+Crafting de iHabbo
+<span class="padding-top"><br></span><p>Volver a la <a href="event:habbopages/wiki.txt">Wiki de iHabbo</a></p><span class="padding-bottom"><br></span>
+<span class="padding-top"></span><h2>¿Qué es el iHabbo Crafting?</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El sistema de Crafting de iHabbo permitirá modificar varios raros de base blanca para convertirlos a colores especiales, gracias a fragmentos de color conseguidos de distintas formas.</p><span class="padding-bottom"><br></span>
+<img src="http://ihabbo.us/swfz/gamedata/habbopages/crafting_prizes.png"/><span class="padding-top"><br><br><br><br><br><br><br><br><br><br><br></span>
+<span class="padding-top"><br></span><p>Pronto daremos más información al respecto, esta página simplemente es informativa para la nueva sección de rares.</p><span class="padding-bottom"><br></span>
+<img src="http://ihabbo.us/swfz/gamedata/habbopages/crafting_iHabbo.png"/><span class="padding-top"><br><br><br></span>

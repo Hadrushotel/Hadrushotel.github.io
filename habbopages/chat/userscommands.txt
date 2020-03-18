@@ -1,0 +1,43 @@
+Comandos de Habbi Hotel
+<span class="padding-top"><br></span><h1>Comandos de Quasar:</h1><span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>:info</b> o <b>:about</b> - Información de Quasar.</p>
+<p class="bullet-item">·&nbsp;<b>:builder</b> - Activa el teletransporte en tu sala.</p>
+<p class="bullet-item">·&nbsp;<b>:empty</b> <yes> - Vaciar tu inventario.</p>
+<p class="bullet-item">·&nbsp;<b>:color</b> <red/cyan/green/blue/purple> - Selecciona tu color de chat.</p>
+<p class="bullet-item">·&nbsp;<b>:sellroom</b> <precio> - Pon en venta tu sala por un precio a escoger.</p>
+<p class="bullet-item">·&nbsp;<b>:buyroom</b> - Compra una sala que esté en venta.</p>
+<p class="bullet-item">·&nbsp;<b>:enable</b> <ID> - Activa un efecto en tu avatar.</p>
+<p class="bullet-item">·&nbsp;<b>:dance</b> <1-5> - Activa un baile a tu elección.</p>
+<p class="bullet-item">·&nbsp;<b>:golpe</b> <usuario> - Golpea a un usuario.</p>
+<p class="bullet-item">·&nbsp;<b>:curar</b> - Curarse de un golpe recibido.</p>
+<p class="bullet-item">·&nbsp;<b>:faceless</b> - Quitar la cara de tu personaje.</p>
+<p class="bullet-item">·&nbsp;<b><a href="event:habbopages/chat/wiredvars.txt">:variables</a></b> - Lista de variables disponibles en el Wired.</p>
+<p class="bullet-item">·&nbsp;<b>:unload</b> - Recargar la sala donde estás.</p>
+<p class="bullet-item">·&nbsp;<b>:regenmaps</b> - Recargar el mapa de la sala.</p>
+<p class="bullet-item">·&nbsp;<b>:setmax</b> <cantidad> - Colocar un límite de aforo en tu sala.</p>
+<p class="bullet-item">·&nbsp;<b>:setspeed</b> <0-10> - Escoge la velocidad de los rollers en tu sala.</p>
+<p class="bullet-item">·&nbsp;<b>:disablediagonal</b> - Desactivar las diagonales en la sala.</p>
+<p class="bullet-item">·&nbsp;<b>:stats</b> o <b>:estadisticas</b> - Estadísticas de tu personaje.</p>
+<p class="bullet-item">·&nbsp;<b>:kickbots</b> - Expulsar de la sala a los bots.</p>
+<p class="bullet-item">·&nbsp;<b>:kickpets</b> - Expulsar de la sala a las mascotas.</p>
+<span class="padding-top"><br></span><h1>Comandos básicos:</h1><span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>Susurrar &lt;usuario&gt;</b> - Realizar un susurro a un usuario.</p>
+<p class="bullet-item">·&nbsp;<b>:mutepets</b> - Silenciar a las mascotas.</p>
+<p class="bullet-item">·&nbsp;<b>:mutebots</b> - Silenciar a los bots.</p>
+<p class="bullet-item">·&nbsp;<b>o/</b> o <b>_o/</b> - Saludar.</p>
+<p class="bullet-item">·&nbsp;<b>:idle</b> - Mostrarse como ausente.</p>
+<p class="bullet-item">·&nbsp;<b>_b</b> - ¡Levantar el pulgar!</p>
+<p class="bullet-item">·&nbsp;<b>:sign &lt;número 0-10&gt;</b> - Mostrar un número.</p>
+<p class="bullet-item">·&nbsp;<b>:sign &lt;número 11-17&gt;</b> - Mostrar un símbolo.</p>
+<p class="bullet-item">·&nbsp;<b>:pickall</b> - Recoger toda tu sala.</p>
+<p class="bullet-item">·&nbsp;<b>:ejectall</b> - Expulsar todos los furnis de grupo.</p>
+<p class="bullet-item">·&nbsp;<b>:sit</b> - Sentarse.</p>
+<p class="bullet-item">·&nbsp;<b>:stand</b> - Levantarse.</p>
+<p class="bullet-item">·&nbsp;<b>:lay</b> - Tumbarse.</p>
+<p class="bullet-item">·&nbsp;<b>:kiss</b> - Besar.</p>
+<p class="bullet-item">·&nbsp;<b>:D</b> o <b>;D</b> - Reír.</p>
+<p class="bullet-item">·&nbsp;<b>:chooser</b> - Abrir una ventana de usuarios en sala.</p>
+<p class="bullet-item">·&nbsp;<b>:furni</b> - Abrir una lista de ítems en sala.</p>
+<p class="bullet-item">·&nbsp;<b>:kick &lt;usuario&gt;</b> - Echar a un usuario de una sala.</p>
+<p class="bullet-item">·&nbsp;<b>:kickall</b> - Echar a todos los usuarios de una sala.</p>
+<p class="bullet-item">·&nbsp;<b>:floor</b> - Abrir el editor de sala.</p>

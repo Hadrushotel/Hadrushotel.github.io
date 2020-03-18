@@ -1,0 +1,18 @@
+Lista de cambios Hadrus: 
+<span class="padding-top"></span><h2>Nuevos WIRED:</h2><span class="padding-top"><br></span>
+<span class="padding-top"></span><p><b>Condición NEGATIVA:</b> El usuario NO es miembro del Equipo.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Condición:</b> Wired tiene un furni encima.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Condición:</b> Usuario lleva Handitem.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Efecto:</b> Mensaje - Existen nuevas <a href="event:habbopages/chat/wiredvars.txt">variables</a>.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Condición:</b> Vikingo - Añadido el WIRED Vikingo completamente funcional.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Efecto STAFF:</b> Dar puntos de recompensa.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Condición NEGATIVA:</b> Usuario no lleva Handitem.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Condición NEGATIVA:</b> Wired no tiene un furni encima.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Causante:</b> Clave - Ahora lee los caracteres en cualquier tamaño / palabra.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Efecto:</b> Freeze - Ahora el Wired debería congelar y descongelar de forma correcta.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><h2>Correciones Generales:</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"></span><p><b>Filtro de sala:</b> Ya no existe la opción de bloquear comandos con el comando :rooom, ahora deben bloquearse directamente desde el filtro de sala, en ajustes.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Encuestas dinámicas:</b> Las encuestas dinámicas vuelven a estar operativas, pronto con recompensas.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Relaciones:</b> Ahora la actualización de relaciones se realiza de forma correcta.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Rollers:</b> Ahora la velocidad de los rollers se guarda, no hay necesidad de ponerlo cada vez.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Comando :bubblebot:</b> <i>{Nombre} {ID}</i> - Introduce el nombre y la ID de la burbuja para cambiar la burbuja de tu BOT.</p><span class="padding-bottom"></span>

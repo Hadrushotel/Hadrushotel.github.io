@@ -1,0 +1,5 @@
+Lista de cambios Hadrus: 
+<span class="padding-top"></span><h2>Nuevos WIRED:</h2><span class="padding-top"><br></span>
+<span class="padding-top"></span><p><b>Condición NEGATIVA:</b> El usuario NO es miembro del Equipo.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Condición:</b> Wired tiene un furni encima.</p><span class="padding-bottom"></span>
+<span class="padding-top"></span><p><b>Condición:</b> Usuario lleva Handitem.</p><span class="padding-bottom"></span>

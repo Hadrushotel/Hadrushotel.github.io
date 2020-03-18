@@ -1,0 +1,23 @@
+Variables especiales de Wired Mensaje:
+<span class="padding-top"><br></span><p>Volver a comandos: <a href="event:habbopages/chat/userscommands.txt">Comandos de Habbo</a></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Variables de usuarios:</h1><span class="padding-top"></span>
+<span class="padding-top"><br></span><h2>Variables de usuarios:</h1><span class="padding-top"></span>
+<span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>%user%</b> - Introduce el nombre de usuario.</p>
+<p class="bullet-item">·&nbsp;<b>%userid%</b> - Introduce la id del usuario.</p>
+<p class="bullet-item">·&nbsp;<b>%honor%</b> - Introduce los puntos de honor del usuario.</p>
+<p class="bullet-item">·&nbsp;<b>%duckets%</b> - Introduce los duckets del usuario.</p>
+<p class="bullet-item">·&nbsp;<b>%diamonds%</b> - Introduce los diamantes del usuario.</p>
+<p class="bullet-item">·&nbsp;<b>%credits%</b> - Introduce los créditos del usuario.</p>
+<p class="bullet-item">·&nbsp;<b>%rank%</b> - Introduce el rango del usuario.</p>
+
+<span class="padding-top"><br></span><h1>Variables de sala:</h1><span class="padding-top"></span>
+<span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>%roomname%</b> - Introduce el nombre de la sala.</p>
+<p class="bullet-item">·&nbsp;<b>%roomusers%</b> - Introduce la cantidad de usuarios en la sala.</p>
+<p class="bullet-item">·&nbsp;<b>%roomlikes%</b> - Introduce la cantidad de likes de la sala.</p>
+<p class="bullet-item">·&nbsp;<b>%roomowner%</b> - Introduce el nombre del dueño de la sala.</p>
+
+<span class="padding-top"><br></span><h1>Variables de Habbo:</h1><span class="padding-top"></span>
+<span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>%userson%</b> - Introduce los usuarios online en el hotel.</p>

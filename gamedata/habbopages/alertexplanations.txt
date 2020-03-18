@@ -1,0 +1,6 @@
+Tipos de alerta:
+<span class="padding-top"><br></span><h1>Alertas administrativas:</h1><span class="padding-top"></span>
+<span class="padding-top"><br></span><img src="https://www.hadrushotel.com/gamedata/habbopages/alerta1.png"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<span class="padding-top"><br></span><p>Este es el tipo de alerta administrativa número <b>1</b>, recibirás las alertas de spam de esta forma, para ponerlas de esta forma escribe: <b><i>:alerttype 1</i></b>.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><img src="https://www.hadrushotel.com/gamedata/habbopages/alerta2.png"/><br><br><br><br><br>
+<span class="padding-top"><br></span><p>Este es el tipo de alerta administrativa número <b>2</b>, recibirás las alertas de spam de esta forma, para ponerlas de esta forma escribe: <b><i>:alerttype 2</i></b>.</p><span class="padding-bottom"><br></span>

@@ -1,0 +1,5 @@
+Mensaje de bienvenida
+<br>
+<img src="/swf/gamedata/habbopages/welcome.png?24232" hspace="1" vspace="1"/>
+<font size="12px"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</font><p><font size="-1"> </font></p> 
