@@ -5,9 +5,9 @@ landing.view.concurrentUsersCompetition.layout=content.x,65
 landing.view.concurrentUsersCompetition.widget=generic
 
 camera.photo.publishing.enabled=false
-stories.image_url_base=https://hadrushotel.github.io/
+stories.image_url_base=https://www.hadrushotel.com/
 navigator.thumbnail.url_base=https://hadrushotel.github.io/c_images/navigator-thumbnail/
-extra_data_service_url=https://hadrushotel.github.io/newfoto/index.php?id=
+extra_data_service_url=https://www.hadrushotel.com/newfoto/index.php?id=
 
 activity.point.display.enabled=true
 ads.domain=hadrushotel.github.io
@@ -177,7 +177,7 @@ games.highscores.scrolling.enabled=true
 games.tokens.enabled=false
 games_icon_enabled=true
 gpu.inanimate_furni=xmas14_palm,xmas14_sunbeams
-group.badge.url=https://hadrushotel.github.io/habbo-imaging/badge/%imagerdata%.gif
+group.badge.url=https://www.hadrushotel.com/habbo-imaging/badge/%imagerdata%.gif
 group.deletion.enabled=true
 group.deletion.maximum.members=500
 group.homepage.url=${url.prefix}/groups/%groupid%/id
@@ -185,7 +185,7 @@ groupMembers.enabled=true
 groupRoomInfo.attach.enabled=true
 groupRoomInfo.badge.enabled=true
 groupRoomInfo.enabled=true
-group_logo_url_template=https://hadrushotel.github.io/habbo-imaging/badge-fill/%imagerdata%.gif
+group_logo_url_template=https://www.hadrushotel.com/habbo-imaging/badge-fill/%imagerdata%.gif
 groupforum.poll.period=900
 guardians.enabled=true
 guide.help.alpha.groupid=340826
@@ -2001,7 +2001,7 @@ zoom.enabled=1
 productdata.load.url=https://hadrushotel.github.io/gamedata/productdata.txt
 external.texts.txt=https://hadrushotel.github.io/gamedata/external_flash_texts.txt
 external.override.variables.txt=https://hadrushotel.github.io/gamedata/override/external_override_variables.txt
-flash.client.url=https://hadrushotel.github.io/gordon/PRODUCTION-201601012205-226667486/
+flash.client.url=https://hadrushotel.github.io/gordon/PRODUCTION/
 furnidata.load.url=https://hadrushotel.github.io/gamedata/furnidata.xml
 external.override.texts.txt=https://hadrushotel.github.io/gamedata/override/external_flash_override_texts.txt
 external.figurepartlist.txt=https://hadrushotel.github.io/gamedata/figuredata.xml
