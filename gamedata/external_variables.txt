@@ -4,7 +4,7 @@ landing.view.concurrentUsersCompetition.conf=spacing,20;title,landing.view.concu
 landing.view.concurrentUsersCompetition.layout=content.x,65
 landing.view.concurrentUsersCompetition.widget=generic
 
-camera.photo.publishing.enabled=false
+camera.photo.publishing.enabled=true
 stories.image_url_base=https://www.hadrushotel.com/
 navigator.thumbnail.url_base=https://hadrushotel.github.io/c_images/navigator-thumbnail/
 extra_data_service_url=https://www.hadrushotel.com/newfoto/index.php?id=
@@ -40,7 +40,7 @@ bundle.dynamic.discounts.enabled=true
 bundle.dynamic.maximum.purchase.size=100
 cache.revision=2014-10-29 11:38:06
 camera.available.effects=security_hardlight,alien_hrd,bluemood_mpl,coffee_mpl,drops_mpl,glitter_hrd, misty_hrd,rusty_mpl,shiny_hrd,toxic_hrd, frame_wood_2,finger_nrm,night_vision,x_ray, decrease_saturation,hypersaturated,decr_conrast,Yellow,green_2
-camera.competition.enabled=false
+camera.competition.enabled=true
 camera.effects.enabled=false
 camera.enabled.android=0
 camera.enabled.desktop=0
@@ -197,7 +197,7 @@ guidetool.handle.tour_requests=true
 habbo.gaming.api.enabled=true
 habbo_club_buy_disabled=true
 habboinfotool.url=https://theallseeingeye.sulake.com/ase/habbo/us/housekeeping/extra/hobba/scam_userinfo_new.action?searchParamName=username&database=Stats&searchParamValue=
-habbopages.url=${url.prefix}/gamedata/habbopages/
+habbopages.url=https://hadrushotel.github.io/gamedata/habbopages/
 habboway.enabled=true
 habboway.url=https://hadrushotel.github.io/groups/officialhabboway
 handitem.drop.enabled=true
